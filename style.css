@@ -8,12 +8,15 @@ header {
 body {
     background-color: rgb(195, 213, 247);
 }
+
+title{
+    color: #000;
+}
 .menu{ 
     margin-bottom: 1px;
-    text-align: left;
-    align-content: space-between;
-    display: inline-block;
-    
+    margin-right: 30px;
+    display: flex;
+    padding: 0px;
 }
 
 h2 {
@@ -31,9 +34,6 @@ nav a {
     padding: 5px;
   }
 
-nav ul {
-    list-style: none;
-  }
 
 nav li {
     display: inline-block;
@@ -65,7 +65,8 @@ button{
 }
 
 h1{
-    color: #ffffff;
+    color: #000000;
+    margin: 0px, 0px, 0px, 0px;
 }
 
 h2{
