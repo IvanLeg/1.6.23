@@ -13,9 +13,11 @@ body {
     text-align: left;
     align-content: space-between;
     display: inline-block;
-    
 }
 
+title{ 
+    color: #000;
+}
 h2 {
     text-align: start;
     padding-right: 200px;
